@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @halloweene
 - 👀 I’m interested in you
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 
 <!---
